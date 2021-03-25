@@ -5,7 +5,7 @@ Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ci
 La actividad ha sido realizada de manera individual por Raúl Sánchez Campos.
 
 # Ficheros del código fuente
-● Practica 1.ipynb
+● src/Practica 1.ipynb
 
 # Recursos 
 ● Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
