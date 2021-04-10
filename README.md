@@ -2,7 +2,7 @@
 Esta práctica se ha realizado bajo el contexto de la asignatura Tipología y ciclo de vida de los datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. En ella, se aplican técnicas de web scraping mediante el lenguaje de programación Python para extraer así datos de la web Cambio político y generar un set de datos con información de la pandemia a nivel mundial por países.
 
 # Miembros del equipo
-La actividad ha sido realizada de manera individual por Raúl Sánchez Campos.
+La actividad ha sido realizada por Raúl Sánchez Campos y Pablo Santos Ramos.
 
 # Ficheros del código fuente
 ● src/Practica 1.ipynb
